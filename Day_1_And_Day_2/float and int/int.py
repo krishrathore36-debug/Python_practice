@@ -1,6 +1,6 @@
 # Integer variables
 num1 = 10
-num2 = 3
+num2 = 4      # ye add kiya hai
 
 # Integer Division
 result1 = num1 // num2
